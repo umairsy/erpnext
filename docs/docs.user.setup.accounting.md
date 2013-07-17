@@ -16,6 +16,7 @@ The Chart of Accounts helps you answer:
 - How much profit you are making (and hence paying tax)?
 - How much is are you selling?
 - How are your expenses broken up?
+- Account Payable and receivable from parties.
 
 As you can see, it is very valuable to you as a business manager to see how well your business is doing. 
 
